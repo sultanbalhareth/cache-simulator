@@ -115,4 +115,6 @@ This code snippet demonstrates how to use the `CacheSimulator` and `CacheSimulat
 ## **Screenshots**
 
 ![Cache Simulator GUI](cache_simulator.PNG)
- <img width="624" alt="image" src="https://github.com/aksh1009/cache-simulator/assets/143216212/935b9181-083e-4ea7-93fe-807f06c8a090">
+
+## Cache Statistics
+![Cache Simulator Statistics](cache_simulator_statistics.PNG)
