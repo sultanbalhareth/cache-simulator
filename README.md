@@ -114,4 +114,4 @@ This code snippet demonstrates how to use the `CacheSimulator` and `CacheSimulat
 
 ## **Screenshots**
 
-<img width="627" alt="image" src="https://github.com/aksh1009/cache-simulator/assets/143216212/61dbac23-4240-4b3b-97d4-9c08b5661fb7"> <img width="624" alt="image" src="https://github.com/aksh1009/cache-simulator/assets/143216212/935b9181-083e-4ea7-93fe-807f06c8a090">
+<img width="627" alt="image" src="github.com/sultanbalhareth/cache-simulator/blob/main/cache_simulator.PNG?raw=true"> <img width="624" alt="image" src="https://github.com/aksh1009/cache-simulator/assets/143216212/935b9181-083e-4ea7-93fe-807f06c8a090">
