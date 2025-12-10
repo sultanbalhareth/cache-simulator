@@ -100,7 +100,7 @@ The project is organized into the following main files:
 
 The core functionality is encapsulated in the `CacheSimulator` class, providing methods for cache initialization, LRU-based updates, FIFO updates, Random updates, and visual representation. The `CacheSimulatorGUI` class utilizes Tkinter for the GUI implementation.
 
-You don't need to manualy enter memory access values, now the GUI provides a text input to insert memory access that you want.
+You don't need to adjust the code and enter memory access values via the code, now the GUI provides a text input to insert memory access that you want.
 
 ```python
 
