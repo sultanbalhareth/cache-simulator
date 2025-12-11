@@ -28,6 +28,7 @@ The Cache Simulator project provides a graphical user interface (GUI) applicatio
 - Automatic Memory Access Option: Provided default memory accesses for quick testing. (added by sultan balhareth)
 - Input Validation: Ensured cache size, block size, and associativity are powers of 2 and compatible. (added by sultan balhareth)
 - Different replacment policies are applied such as LFU, FIFO, and Random replacment (added by sultan balhareth)
+- Fix the way of calculating the number of sets in a cache
 
 ## **Project Structure**
 
